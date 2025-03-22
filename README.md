@@ -14,5 +14,4 @@ This repository contains a comprehensive Python Lab Manual, covering fundamental
 ✔ Libraries (NumPy, Pandas, Matplotlib)
 ✔ Exception Handling
 ✔ Database Connectivity
-
 [Python Index.pdf](https://github.com/user-attachments/files/19403327/Python.Index.pdf)
